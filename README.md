@@ -6,7 +6,7 @@ The project is centered around the supply-chain industry, where the company is f
 
 ### **Overpayment Analysis:**
 
-A dashboard is prepared to compare actual payouts and budgets to find answers to specific questions which aims to determine the number of clusters where payouts exceeded the budget, identify the cluster where the problem is most severe, and provide insights into the number of branches within that cluster that either experienced overpayments or fell below the budget allocation.
+A dashboard is prepared to compare actual payouts and budgets which aims to determine the number of clusters where payouts exceeded the budget, identify the cluster where the problem is most severe, and provide insights into the number of branches within that cluster that either experienced overpayments or fell below the budget allocation.
 
 *Findings* - The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, an amount equivalent to the budgeted payout. Let’s apply the Pareto principle here and dig in further to find the cause of overpayment in the Ahmedabad cluster. 
 
