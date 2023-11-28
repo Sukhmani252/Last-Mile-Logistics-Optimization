@@ -10,7 +10,7 @@ A dashboard is prepared to compare actual payouts and budgets which aims to dete
 
 *Findings* - The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, an amount equivalent to the budgeted payout. Let’s apply the Pareto principle here and dig in further to find the cause of overpayment in the Ahmedabad cluster. 
 
-Live Dashboard : https://www.novypro.com/project/overpay-analysis
+Live Dashboard: https://www.novypro.com/project/overpay-analysis
 
 ### **Building Cost Structure:**
 
