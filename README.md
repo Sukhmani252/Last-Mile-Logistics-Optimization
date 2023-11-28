@@ -10,6 +10,8 @@ A dashboard is prepared to compare actual payouts and budgets which aims to dete
 
 *Findings* - The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, an amount equivalent to the budgeted payout. Let’s apply the Pareto principle here and dig in further to find the cause of overpayment in the Ahmedabad cluster. 
 
+Live Dashboard : https://www.novypro.com/project/overpay-analysis
+
 ### **Building Cost Structure:**
 
 A cost structure is prepared to validate the cost of partners and find out the possible causes of high variance between target and actuals. This model will help to calculate the cost of every vehicle of a partner, thereby determining the cost per kg.
