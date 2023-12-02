@@ -28,7 +28,7 @@ Now, the number of partners who have gained profit has slightly increased.
 
 To increase the profit, we have to increase the per kg rate offered. The per kg rate will depend on the cost per kg and the cost per kg will come from fuel cost per liter, distance travelled, etc. The more vehicles the partner will have, the more cost per kg will increase.
 
-So, a partner having more vehicles should deliver more kgs.To verify that, utilization % is calculated and it is observed that the vehicle utilization is very low, hence decreasing profit margin.
+So, a partner having more vehicles should deliver more kgs. To verify that, utilization % is calculated and it is observed that the vehicle utilization is very low, hence decreasing profit margin.
 So, a new cost calculator should be designed to calculate the payout per kg of a partner by maximizing vehicle utilization.
 
 ### **Commercials Calculator:** 
