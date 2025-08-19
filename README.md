@@ -1,6 +1,13 @@
 # Last-Mile-Payout-Optimization
 
-The project is centered around the supply-chain industry, where the company is facing financial losses due to excess payouts to delivery partners. The task is to find out the bottlenecks and prepare a standard dynamic calculator to decide the commercials of each partner to optimize the overall profit of the organization as well as partners.
+## Background and Overview:
+
+The project is centered around the supply-chain industry, where the company is facing financial losses due to excess payouts to delivery partners. 
+
+The task is to identify bottlenecks and develop a standard dynamic calculator to determine the commercials for each partner, thereby optimizing the overall profit of the organization and its partners, which addresses the concerns of both the operations and finance teams.
+
+Insights and recommendations are provided on the following key areas:
+
 
 ## Approach:
 
