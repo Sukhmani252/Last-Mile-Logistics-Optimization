@@ -1,6 +1,4 @@
-# Last-Mile-Payout-Optimization
-
-## Background and Overview:
+## Project Background:
 
 The project is centered around the supply-chain industry, where the company is facing financial losses due to excess payouts to delivery partners. 
 
