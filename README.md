@@ -27,7 +27,8 @@ The company’s database structure as seen below consists of 4 tables: payout, b
 
 ## Executive Summary:
 
-A huge amount has been overpaid to the partners which is about 15 millions, 31% larger than the expected budget. 
+A huge amount has been overpaid to the partners which is about 15 millions, 31% larger than the expected budget.
+
 The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, which is approximately double the budgeted amount. 
 Applying Pareto's principle, digging into the cause of overpayment in Ahmedabad cluster will help identify the key areas of improvement. 
 
