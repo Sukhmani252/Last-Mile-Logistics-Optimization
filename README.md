@@ -6,6 +6,19 @@ The task is to identify bottlenecks and develop a standard dynamic calculator to
 
 Insights and recommendations are provided on the following key areas:
 
+-
+-
+-
+
+An interactive dashboard for overpayment analysis: 
+
+Cost structure of delivery partners:
+
+Partner Profitability Analysis:
+
+Cost Calculator:
+
+
 
 ## Approach:
 
