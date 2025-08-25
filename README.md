@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - **Overpayment Analysis:** Analysis of payment data to verify claims of overpayment and identify the underlying reasons. 
 - **Cost Structure:** Provides details of each partner's expenses related to their fleet of vehicles.
 - **Profitability Analysis**: Comparison of partners' expenses and payouts to understand profitability.
-- **Cost Calculator**: A dynamic model for calculating cost and payouts. 
+- **Cost Calculator**: A standardized model for calculating partners' cost and payouts. 
 
 An interactive dashboard for overpayment analysis: 
 
