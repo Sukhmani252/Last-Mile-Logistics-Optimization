@@ -32,7 +32,8 @@ A huge amount has been overpaid to the partners which is about 15 millions, 31% 
 The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, which is approximately double the budgeted amount. 
 Applying Pareto's principle, digging into the cause of overpayment in Ahmedabad cluster will help identify the key areas of improvement. 
 
-<img width="1174" height="340" alt="last_mile_executive_summary" src="https://github.com/user-attachments/assets/abd337b6-0834-46c3-bc5b-658df61d61a4" />
+<img width="1174" height="327" alt="last_mile_executive_summary" src="https://github.com/user-attachments/assets/5227fdb3-1393-4c04-91e1-250cfdc937c8" />
+
 
 The entire interactive dashboard can be explored here: https://www.novypro.com/project/overpay-analysis
 
