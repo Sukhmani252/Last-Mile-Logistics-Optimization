@@ -20,11 +20,16 @@ Cost Calculator:
 
 
 
-## Approach:
+## Data Structure:
 
 The company’s database structure as seen below consists of 4 tables: payout, partners, branch and vehicles.
 <img width="1920" height="1080" alt="last_mile_ERD" src="https://github.com/user-attachments/assets/46647115-3b6a-43c9-9a7c-6fa7ce39aa41" />
 
+## Executive Summary:
+
+## Insights:
+
+## Recommendations:
 
 ### **Overpayment Analysis:**
 
