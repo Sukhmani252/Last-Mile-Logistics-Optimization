@@ -6,9 +6,10 @@ The task is to identify bottlenecks and develop a standard dynamic calculator to
 
 Insights and recommendations are provided on the following key areas:
 
--
--
--
+- **Overpayment Analysis:** Analysis of payment data to verify claims of overpayment and identify the underlying reasons. 
+- **Cost Structure:** Provides details of each partner's expenses related to their fleet of vehicles.
+- **Profitability Analysis**: Comparison of partners' expenses and payouts to understand profitability.
+- **Cost Calculator**: A dynamic model for calculating cost and payouts. 
 
 An interactive dashboard for overpayment analysis: 
 
@@ -22,8 +23,9 @@ Cost Calculator:
 
 ## Data Structure:
 
-The company’s database structure as seen below consists of 4 tables: payout, partners, branch and vehicles.
-<img width="1920" height="1080" alt="last_mile_ERD" src="https://github.com/user-attachments/assets/46647115-3b6a-43c9-9a7c-6fa7ce39aa41" />
+The company’s database structure as seen below consists of 4 tables: payout, business_partners, branch and vehicles.
+<img width="1920" height="1080" alt="last_mile_ERD" src="https://github.com/user-attachments/assets/ea343e43-672c-4376-9c7a-abddadd61a94" />
+
 
 ## Executive Summary:
 
