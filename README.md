@@ -19,8 +19,6 @@ Partner Profitability Analysis:
 
 Cost Calculator:
 
-
-
 ## Data Structure:
 
 The company’s database structure as seen below consists of 4 tables: payout, business_partners, branch and vehicles.
@@ -28,6 +26,15 @@ The company’s database structure as seen below consists of 4 tables: payout, b
 
 
 ## Executive Summary:
+
+A huge amount has been overpaid to the partners which is about 15 millions, 31% larger than the expected budget. 
+The Ahmedabad cluster has been identified as overpaid by a significant margin of 2.3 million, which is approximately double the budgeted amount. 
+Applying Pareto's principle, digging into the cause of overpayment in Ahmedabad cluster will help identify the key areas of improvement. 
+
+<img width="1174" height="340" alt="last_mile_executive_summary" src="https://github.com/user-attachments/assets/abd337b6-0834-46c3-bc5b-658df61d61a4" />
+
+The entire interactive dashboard can be explored here: https://www.novypro.com/project/overpay-analysis
+
 
 ## Insights:
 
