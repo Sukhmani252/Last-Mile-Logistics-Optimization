@@ -22,6 +22,9 @@ Cost Calculator:
 
 ## Approach:
 
+<img width="1920" height="1080" alt="last_mile_ERD" src="https://github.com/user-attachments/assets/967432e3-3dd9-401a-9d5a-29c9cb3f21de" />
+
+
 ### **Overpayment Analysis:**
 
 A dashboard is prepared to compare actual payouts and budgets which aims to determine the number of clusters where payouts exceeded the budget, identify the cluster where the problem is most severe, and provide insights into the number of branches within that cluster that either experienced overpayments or fell below the budget allocation.
