@@ -62,7 +62,7 @@ The entire interactive dashboard can be explored here: https://www.novypro.com/p
    
 - The standardized cost calculator determines overall costs and outputs a payout rate for partners based on their vehicle type, assuming 80% vehicle utilization. The partner’s profit margin can also be adjusted to ensure fair payouts.
 
-<img width="1588" height="665" alt="Cost Calculator" src="https://github.com/user-attachments/assets/d1563bdc-ab58-44dc-b8b9-1a8e136f53b0" />
+<img width="1588" height="1000" alt="Cost Calculator" src="https://github.com/user-attachments/assets/d1563bdc-ab58-44dc-b8b9-1a8e136f53b0" />
 
 
 
