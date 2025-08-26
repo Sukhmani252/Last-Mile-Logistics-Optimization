@@ -41,22 +41,29 @@ The entire interactive dashboard can be explored here: https://www.novypro.com/p
 
 #### Insights and Recommendations:
 
-Overpayment Insight, recommendation/call to action - (understanding cost structure)
+- **Overpayment Issue:** Analyzing the budget and payouts resulted in Ahmedabad being the most overpaid cluster. Breaking down the partner cost structure of Ahmedabad can help uncover system-wide inefficiencies.
+  
+- **Cost Structure:** A cost structure is built to determine the cost incurred for the vehicles by partners, which depends on the vehicle's capacity, mileage, ownership type, and distance travelled, and mainly includes fuel cost, EMI, maintenance, vehicle cost, and team cost.
 
-A cost structure is built to understand the cost incurred for the vehicles by partners which depends on the vehicle's capacity, mileage and distance travelled and mainly includes fuel cost, EMI, maintenance, vehicle cost and team cost.
+- **Profitability Analysis:** Comparing costs and payouts showed that only 35% of Ahmedabad partners are profitable, while the majority operate at a loss.
 
- - percentage of profitable partners
-Despite the partners being overpaid, most of them are at loss. Only 29% of all the partners are profitable.
- - correlation b/w cost per kg and payout per kg
- - more on profitability analysis - utilization
+- **Cost vs Payout:**: The correlation between cost per kg and payout per kg is very low. Costs are significantly higher than payouts, leading to losses despite partners being overpaid. It indicates that the partners are not being paid correctly, the whole cost structure is disrupted, and there is a need to develop a new standardized commercials calculator for determining partners’ costs and payouts.
+
+-**Utilization:** Vehicle utilization, measured against monthly capacity vs actual kg delivered, is very low. 
+
+The utilization is directly correlated with the profit margin – the higher the utilization, maximum the profits.
 
  <img width="917" height="365" alt="Utilization vs Profit Margin" src="https://github.com/user-attachments/assets/a815744b-a135-4ba4-91f5-7c1212f6f3c0" />
 
- - Raw Calculator Inputs
- - cost calculator
+- **Solution – Commercials Calculator:**
+
+-   A calculator is designed to take partner vehicle information as input, which computes costs such as fuel, maintenance, vehicle, manpower, and additional charges.
    
-- A new cost calculator is created based on the vehicles of partner to calculate the standardized cost per kg by keeping vehicle utilization as 80% and outputs a payout rate that can be offered to partners.
-The profit margin of the partner can also be adjusted and based on that the payout is calculated.
+- The standardized cost calculator determines overall costs and outputs a payout rate for partners based on their vehicle type, assuming 80% vehicle utilization. The partner’s profit margin can also be adjusted to ensure fair payouts.
+
+<img width="1851" height="665" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/fddba7ef-98ef-49c2-bc88-5cf359e2b6c9" />
+
+
 
 
 
