@@ -1,4 +1,4 @@
-## Project Background:
+## Project Overview:
 
 The project is centered around the supply-chain industry, where the company is facing financial losses due to excess payouts to delivery partners. 
 
@@ -39,7 +39,7 @@ The entire interactive dashboard can be explored here: https://www.novypro.com/p
 
 
 
-## Insights and Recommendations:
+### Insights and Recommendations:
 
 - **Overpayment Issue:** Analyzing the budget and payouts resulted in Ahmedabad being the most overpaid cluster. Breaking down the partner cost structure of Ahmedabad can help uncover system-wide inefficiencies.
   
@@ -47,11 +47,12 @@ The entire interactive dashboard can be explored here: https://www.novypro.com/p
 
 - **Profitability Analysis:** Comparing costs and payouts showed that only 35% of Ahmedabad partners are profitable, while the majority operate at a loss.
 
-- **Cost vs Payout:**: The correlation between cost per kg and payout per kg is very low. Costs are significantly higher than payouts, leading to losses despite partners being overpaid. It indicates that the partners are not being paid correctly, the whole cost structure is disrupted, and there is a need to develop a new standardized commercials calculator for determining partners’ costs and payouts.
+- **Cost vs Payout:** The correlation between cost per kg and payout per kg is very low. Costs are significantly higher than payouts, leading to losses despite partners being overpaid. It indicates that the partners are not being paid correctly, the whole cost structure is disrupted, and there is a need to develop a new standardized commercials calculator for determining partners’ costs and payouts.
 
 - **Utilization:** Vehicle utilization, measured against monthly capacity vs actual kg delivered, is very low. 
 
-The utilization is directly correlated with the profit margin – the higher the utilization, maximum the profits.
+   The utilization is directly correlated with the profit margin – the higher the utilization, maximum the profits.
+  
 
  <img width="917" height="365" alt="Utilization vs Profit Margin" src="https://github.com/user-attachments/assets/a815744b-a135-4ba4-91f5-7c1212f6f3c0" />
 
