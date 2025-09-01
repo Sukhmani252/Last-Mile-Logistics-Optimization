@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Profitability Analysis**: Comparison of partners' expenses and payouts to understand profitability.
 - **Cost Calculator**: A standardized model for calculating partners' cost and payouts. 
 
-An interactive dashboard for overpayment analysis: 
+An interactive dashboard for overpayment analysis can be downloaded [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/overpay_analysis.pbix) 
 
 Cost structure of delivery partners:
 
