@@ -35,10 +35,6 @@ Applying Pareto's principle, digging into the cause of overpayment in Ahmedabad 
 <img width="1174" height="327" alt="last_mile_executive_summary" src="https://github.com/user-attachments/assets/5227fdb3-1393-4c04-91e1-250cfdc937c8" />
 
 
-The entire interactive dashboard can be explored here: https://www.novypro.com/project/overpay-analysis
-
-
-
 ### Insights and Recommendations:
 
 - **Overpayment Issue:** Analyzing the budget and payouts resulted in Ahmedabad being the most overpaid cluster. Breaking down the partner cost structure of Ahmedabad can help uncover system-wide inefficiencies.
