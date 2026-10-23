@@ -13,9 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive dashboard for overpayment analysis can be downloaded [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/overpay_analysis.pbix) 
 
-Cost Structure can be downloaded [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/Cost%20Structure.xlsx)
-
-Partner Profitability Analysis can be viewed [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/Profitablility%20Analysis.xlsx) 
+Cost Structure and Partner Profitability Analysis can be explored [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/Last_Mile_Payout_Analysis.xlsx) 
 
 Cost Calculator can be downloaded [here](https://github.com/Sukhmani252/Last-Mile-Logistics-Optimization/blob/main/Cost%20Calculator.xlsx)
 
